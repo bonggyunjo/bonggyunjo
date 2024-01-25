@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
 <img src="https://img.shields.io/badge/facebook-5B02ED.svg?style=for-the-badge&logo=facebook&logoColor=white"">
 </p>
-
+</br>
  <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
 <p align="center">
@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-AD6269.svg?style=for-the-badge&logo=java&logoColor=orange"/>
 </p>
-</br>
-
-
-
 
 <h3 align="center"><b> ing (24.02 ~) </b></h3>
 <p align="center">
