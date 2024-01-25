@@ -11,7 +11,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> <h3 align="center"><b>📚 Languages 📚</b></h3>
+
+
+-->
+
+<p align="center">
+<a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
+<img src="https://img.shields.io/badge/facebook-5B02ED.svg?style=for-the-badge&logo=facebook&logoColor=white"">
+</p>
+
+ <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -21,12 +30,8 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-<h3 align="center"><b> go </b></h3>
-<p align="center">
-<a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
-<img src="https://img.shields.io/badge/facebook-5B02ED.svg?style=for-the-badge&logo=facebook&logoColor=white"">
-</a>
-</p>
+
+
 
 <h3 align="center"><b> ing (24.02 ~) </b></h3>
 <p align="center">
