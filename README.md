@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-AD6269.svg?style=for-the-badge&logo=java&logoColor=orange"/>
 </p>
+</br>
+
+<h3 align="center"><b> ing (24.02 ~) </b></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/react-8A4B08.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+
