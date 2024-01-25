@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 </br>
 
-<h3 align="center"><b> Social </b></h3>
+<h3 align="center"><b> go </b></h3>
 <p align="center">
 <a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
 <img src="https://img.shields.io/badge/facebook-5B02ED.svg?style=for-the-badge&logo=facebook&logoColor=white"">
