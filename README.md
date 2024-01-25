@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b> Social </b></h3>
 <p align="center">
-<a href="https://www.facebook.com/profile.php?id=100009829832533">
+<a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
 <img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white">
-/a>
+</a>
 </p>
 
 <h3 align="center"><b> ing (24.02 ~) </b></h3>
