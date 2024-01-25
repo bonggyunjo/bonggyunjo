@@ -21,9 +21,18 @@ Here are some ideas to get you started:
 </p>
 </br>
 
+<h3 align="center"><b> Social </b></h3>
+<p align="center">
+<a href="https://www.facebook.com/profile.php?id=100009829832533">
+<img src="https://img.shields.io/badge/-Facebook-1877f2?logo=facebook&logoColor=white">
+/a>
+</p>
+
 <h3 align="center"><b> ing (24.02 ~) </b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/react-8A4B08.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </p>
+
+
 
