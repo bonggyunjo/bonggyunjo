@@ -17,8 +17,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/java%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
-![js](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=Java&logoColor=white)
-![js](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python&logoColor=white)
-![js](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=white)
-![js](https://img.shields.io/badge/C-F7DF1E?style=for-the-badge&logo=C&logoColor=white)
