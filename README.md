@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-AD6269.svg?style=for-the-badge&logo=java&logoColor=orange"/>
 </p>
 
-<h3 align="center"><b> ing (24.02 ~) </b></h3>
+<h3 align="center"><b> Studying~ </b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/react-8A4B08.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
