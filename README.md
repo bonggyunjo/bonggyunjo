@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/profile.php?id=100009829832533&mibextid=ZbWKwL">
 <img src="https://img.shields.io/badge/facebook-5B02ED.svg?style=for-the-badge&logo=facebook&logoColor=white"">
 </a>
-
-<a href="https://www.instagram.com/bonggyun_j/">
-<img src="https://img.shields.io/badge/instagram-CF02ED.svg?style=for-the-badge&logo=instagram&logoColor=white"">
-</a>
 </p>
+
 </br>
  <h3 align="center"><b>📚 Languages 📚</b></h3>
 </br>
