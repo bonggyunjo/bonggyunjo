@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 <h3 align="center"><b> Studying~ </b></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/react-8A4B08.svg?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <img src="https://img.shields.io/badge/GITHUB-1C1C1C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
- <img src="https://img.shields.io/badge/Algorithm-FE9A2E.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/react-8A4B08.svg?style=for-the-badge&logo=react&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=vue&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GITHUB-1C1C1C.svg?style=for-the-badge&logo=github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Algorithm-FE9A2E.svg?style=for-the-badge&logo=algorithm&logoColor=white"/>
 </p>
 
 
