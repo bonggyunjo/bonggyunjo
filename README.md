@@ -24,10 +24,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-AD6269.svg?style=for-the-badge&logo=java&logoColor=orange"/>
 </p>
 
-<h3 align="center"><b> Studying~ </b></h3>
+<h3 align="center"><b> Studying </b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=vue&logoColor=white"/>
- <img src="https://img.shields.io/badge/GITHUB-1C1C1C.svg?style=for-the-badge&logo=github&logoColor=white"/>
  <img src="https://img.shields.io/badge/Algorithm-FE9A2E.svg?style=for-the-badge&logo=algorithm&logoColor=white"/>
 </p>
 
