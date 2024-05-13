@@ -22,12 +22,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/c-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-AD6269.svg?style=for-the-badge&logo=java&logoColor=orange"/>
-</p>
-
-<h3 align="center"><b> Studying </b></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=vue&logoColor=white"/>
- <img src="https://img.shields.io/badge/Algorithm-FE9A2E.svg?style=for-the-badge&logo=algorithm&logoColor=white"/>
+ <img src="https://img.shields.io/badge/vue-58FA58.svg?style=for-the-badge&logo=vue&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JS-58FA58.svg?style=for-the-badge&logo=vue&logoColor=white"/>
 </p>
 
 
