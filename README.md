@@ -35,7 +35,7 @@
 
 ##### blog & contact
 
-###### **blog:** [https://velog.io/@jbong](https://velog.io/@jbong/posts)
+###### **blog:** [velog.io/@jbong](https://velog.io/@jbong/posts)
 ######  **email:** [kjbg4565388@gmail.com](kjbg4565388@gmail.com)
 
 ---
