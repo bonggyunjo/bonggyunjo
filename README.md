@@ -15,7 +15,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br>
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 
 #### tools
@@ -35,11 +34,6 @@
 
 ###### **blog:** [velog.io/@jbong](https://velog.io/@jbong/posts)
 ######  **email:** [kjbg4565388@gmail.com](kjbg4565388@gmail.com)
-
----
-
-#####  Portfolio
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ---
 
