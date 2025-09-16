@@ -1,51 +1,63 @@
 <div align="left">
+  
+### 🧰 Tech Stacks
 
-##### 00.07.19
+**Databases**  
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+
+<br/>
+
+**Backend & Runtime**  
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
+
+<br/>
+
+**Frameworks**  
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000">
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
+
+<br/>
+
+**DevOps & Deployment**  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000">
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/SSH-333333?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/SFTP%2FFTP-BF0000?style=flat-square&logo=filezilla&logoColor=white">
+
+<br/>
+
+**Tools**  
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/MobaXterm-2C2C2C?style=flat-square">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/GitBook-3884FF?style=flat-square&logo=gitbook&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
 
 ---
-#### tech stacks
 
-![js](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-<img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
-<br>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-![js](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-<br>
-![js](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
-
-#### tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/gitbook-BBDDE5?style=for-the-badge&logo=gitbook&logoColor=white">
-<img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-
-#### framework
-![js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+### ✍️ Blog & Contact
+**blog:** <a href="https://velog.io/@jbong/posts">velog.io/@jbong</a>  
+**email:** <a href="mailto:kjbg4565388@gmail.com">kjbg4565388@gmail.com</a>
 
 ---
 
-##### blog & contact
+### 📊 Stats
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=bonggyunjo&show_icons=true&theme=merko" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonggyunjo&layout=compact" />
+</p>
 
-###### **blog:** [velog.io/@jbong](https://velog.io/@jbong/posts)
-######  **email:** [kjbg4565388@gmail.com](kjbg4565388@gmail.com)
-
----
-
-#### stats
-
-![bonggyunjo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bonggyunjo&show_icons=true&theme=merko)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bonggyunjo&layout=compact)
-
-#### solved
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjbg4565388)](https://solved.ac/kjbg4565388/)
+### 🧩 Solved
+<p>
+  <a href="https://solved.ac/kjbg4565388/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjbg4565388" />
+  </a>
+</p>
 
 </div>
