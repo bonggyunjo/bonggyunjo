@@ -1,29 +1,29 @@
 <div align="left">
   
-### 🧰 Tech Stacks
+## Tech Stacks
 
-**Databases**  
+### **Databases**  
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
 
 <br/>
 
-**Backend & Runtime**  
+### **Backend & Runtime**  
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000">
 
 <br/>
 
-**Frameworks**  
+### **Frameworks**  
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000">
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white">
 
 <br/>
 
-**DevOps & Deployment**  
+### **DevOps & Deployment**  
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000">
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
@@ -32,7 +32,7 @@
 
 <br/>
 
-**Tools**  
+### **Tools**  
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/MobaXterm-2C2C2C?style=flat-square">
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
