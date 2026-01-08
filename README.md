@@ -46,7 +46,6 @@
 ---
 
 ### 🏆 Algorithm Mastery (Solved.ac)
-> **"문제 해결을 위한 논리적 사고, 코드로 증명합니다."**
 
 <a href="https://solved.ac/kjbg4565388/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjbg4565388" height="180" />
@@ -56,9 +55,6 @@
 
 ### 🌿 GitHub Contributions
 <div align="center">
-  <p><b>Annual Commitment (1 Year)</b></p>
-  <img src="https://github-readme-stats.vercel.app/api/calendar?username=bonggyunjo&theme=tokyonight&hide_border=true" width="100%" />
-
   <br/><br/>
 
   <p><b>Recent Activity Flow</b></p>
