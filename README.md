@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 AI 주도 개발
+### 🤖 AI 툴
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-### ✍️ 소통과 기록
+### ✍️ 아카이브
 <p align="center">
   <a href="https://bonggyunjo.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog_Archive-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
@@ -59,7 +59,7 @@
 
 ---
 
-### 📈 활동 기록 및 성장 궤적
+### 📈 활동 기록
 <div align="center">
   <p><b>최근 활동 그래프</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonggyunjo&theme=tokyonight&hide_border=true&area=true" width="100%" />
