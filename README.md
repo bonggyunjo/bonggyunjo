@@ -1,7 +1,8 @@
 <div align="center">
 
+
 ### 🛠️ Engineering My Own Archive
-기존 기술 블로그였던 <a href="https://velog.io/@jbong">Velog.io</a>를 넘어, 플랫폼의 틀에 갇히지 않고 본인만의 브랜드 정체성을 온전히 담아내는 공간인 <a href="https://bonggyunjo.github.io/">GitHub.io</a>로 이전하였습니다.
+기존 기술 블로그였던 [Velog.io](https://velog.io/@jbong)를 넘어, 플랫폼의 틀에 갇히지 않고 본인만의 브랜드 정체성을 온전히 담아내는 공간인 [GitHub.io](https://bonggyunjo.github.io/)로 이전하였습니다.
 
 ---
 
@@ -24,7 +25,7 @@
 
 ---
 
-### 🤖 AI-Driven Development
+### 🤖 AI 주도 개발
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -34,7 +35,7 @@
 
 ---
 
-### ✍️ Contact & Blog
+### ✍️ 소통과 기록
 <p align="center">
   <a href="https://bonggyunjo.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog_Archive-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
@@ -51,22 +52,22 @@
 
 ---
 
-### 🌿 GitHub Contributions (Annual)
+### 🌿 연간 기여 현황
 <div align="center">
   <img src="https://ghchart.rshah.org/4FC08D/bonggyunjo" width="100%" alt="Bonggyunjo's Grass" />
 </div>
 
 ---
 
-### 📈 Activity & Growth
+### 📈 활동 기록 및 성장 궤적
 <div align="center">
-  <p><b>Recent Activity Flow</b></p>
+  <p><b>최근 활동 그래프</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonggyunjo&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
   <br/><br/>
 
-  <p><b>Commit Streak</b></p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonggyunjo&theme=tokyonight&hide_border=true" width="100%" />
+  <p><b>연속 커밋 기록 (Streak Stats)</b></p>
+  <img src="https://streak-stats.demolab.com/?user=bonggyunjo&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
 </div>
