@@ -1,8 +1,8 @@
 <div align="center">
 
----
 
-### 🛠 기술 스택 (Tech Universe)
+
+### 🛠 Tech Universe
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@
 
 ### 🌿 GitHub Contributions (Annual)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/calendar?username=bonggyunjo&theme=tokyonight" width="100%" alt="Annual Calendar" />
+  <img src="https://ghchart.rshah.org/4FC08D/bonggyunjo" width="100%" alt="Bonggyunjo's Grass" />
 </div>
 
 ---
