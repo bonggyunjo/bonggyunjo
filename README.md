@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Nanum+Gothic&weight=700&size=28&pause=1000&color=black&center=true&vCenter=true&width=500&lines=I'M,+JBG+👋;끊임없이+성장하는+풀스택+개발자;" alt="Typing SVG" />
-
-<p align="center">
-  <img src="https://img.shields.io/badge/집중_분야-풀스택_및_튜닝_최적화-blue?style=for-the-badge&logo=target" />
-</p>
-
 ---
 
 ### 🛠 기술 스택 (Tech Universe)
@@ -53,23 +47,22 @@
 
 ---
 
-### 🌿 GitHub Contributions
+### 🌿 GitHub Contributions (Annual)
 <div align="center">
-  <br/><br/>
-
-  <p><b>Recent Activity Flow</b></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonggyunjo&theme=tokyonight&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/calendar?username=bonggyunjo&theme=tokyonight" width="100%" alt="Annual Calendar" />
 </div>
 
 ---
 
-### 📈 성장의 기록 (Growth Dashboard)
+### 📈 Activity & Growth
 <div align="center">
+  <p><b>Recent Activity Flow</b></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonggyunjo&theme=tokyonight&hide_border=true&area=true" width="100%" />
 
+  <br/><br/>
+
+  <p><b>Commit Streak</b></p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bonggyunjo&theme=tokyonight&hide_border=true" width="100%" />
 </div>
-
-<br/>
-
 
 </div>
