@@ -1,6 +1,8 @@
 <div align="center">
 
+<p ><b><a href="https://velog.io/@jbong">시행착오를 통해 얻은 기술적 인사이트와 트러블슈팅 리포트를 확인해보세요.</a></b></p>
 
+---
 
 ### 🛠 Tech Universe
 
