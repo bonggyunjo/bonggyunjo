@@ -25,7 +25,7 @@
 
 ---
 
-### 🤖 AI 툴
+### 🤖 AI Tools
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -35,7 +35,7 @@
 
 ---
 
-### ✍️ 아카이브
+### ✍️ Archive
 <p align="center">
   <a href="https://bonggyunjo.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog_Archive-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
