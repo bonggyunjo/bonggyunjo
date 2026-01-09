@@ -1,6 +1,7 @@
 <div align="center">
 
-<p ><b><a href="https://velog.io/@jbong">시행착오를 통해 얻은 기술적 인사이트와 트러블슈팅 리포트를 확인해보세요.</a></b></p>
+### 🛠️ Engineering My Own Archive
+기존 기술 블로그였던 <a href="https://velog.io/@jbong">Velog.io</a>를 넘어, 플랫폼의 틀에 갇히지 않고 본인만의 브랜드 정체성을 온전히 담아내는 공간인 <a href="https://bonggyunjo.github.io/">GitHub.io</a>로 이전하였습니다.
 
 ---
 
@@ -35,7 +36,8 @@
 
 ### ✍️ Contact & Blog
 <p align="center">
-  <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
+  <a href="https://bonggyunjo.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog_Archive-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
   <a href="mailto:kjbg4565388@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
