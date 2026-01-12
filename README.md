@@ -2,7 +2,7 @@
 
 
 ### 🛠️ Engineering My Own Archive
-기존 기술 블로그였던 [Velog.io](https://velog.io/@jbong)를 넘어, 플랫폼의 틀에 갇히지 않고 본인만의 브랜드 정체성을 온전히 담아내는 공간인 [GitHub.io](https://bonggyunjo.github.io/)로 이전하였습니다.
+기술 블로그였던 [Velog.io](https://velog.io/@jbong)에서,  [GitHub.io](https://bonggyunjo.github.io/)로 이전하였습니다.
 
 ---
 
