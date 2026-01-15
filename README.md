@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🛠 Tech Universe
+### Tech Universe
 
 <table align="center">
   <tr>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🤖 AI Tools
+### AI Tools
 <div align="center">
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -29,7 +29,7 @@
 
 ---
 
-### ✍️ Archive
+### Archive
 <p align="center">
   <a href="https://bonggyunjo.github.io/"><img src="https://img.shields.io/badge/Tech_Blog-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://velog.io/@jbong/posts"><img src="https://img.shields.io/badge/Velog_Archive-11B48A?style=for-the-badge&logo=vimeo&logoColor=white" /></a>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🏆 Algorithm Mastery (Solved.ac)
+### Algorithm Mastery (Solved.ac)
 
 <a href="https://solved.ac/kjbg4565388/">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjbg4565388" height="180" />
@@ -46,14 +46,14 @@
 
 ---
 
-### 🌿 연간 기여 현황
+### 커밋 내역
 <div align="center">
   <img src="https://ghchart.rshah.org/4FC08D/bonggyunjo" width="100%" alt="Bonggyunjo's Grass" />
 </div>
 
 ---
 
-### 📈 활동 기록
+### 활동 기록
 <div align="center">
   <p><b>최근 활동 그래프</b></p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonggyunjo&theme=tokyonight&hide_border=true&area=true" width="100%" />
