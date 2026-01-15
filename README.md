@@ -1,11 +1,5 @@
 <div align="center">
 
-
-### 🛠️ Engineering My Own Archive
-기술 블로그였던 [Velog.io](https://velog.io/@jbong)에서,  [GitHub.io](https://bonggyunjo.github.io/)로 이전하였습니다.
-
----
-
 ### 🛠 Tech Universe
 
 <table align="center">
