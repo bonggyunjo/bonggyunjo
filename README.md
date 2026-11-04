@@ -40,9 +40,7 @@
   <tr>
     <td align="center"><b>성능 테스트</b></td>
     <td>
-      <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
       <img src="https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cannon-FF6B6B?style=for-the-badge" />
     </td>
   </tr>
 
