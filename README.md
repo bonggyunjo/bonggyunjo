@@ -58,14 +58,6 @@
 
 ---
 
-### 알고리즘
-
-<a href="https://solved.ac/kjbg4565388/">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kjbg4565388" height="180" />
-</a>
-
----
-
 ### 활동
 <div align="center">
   <img src="https://ghchart.rshah.org/141E30/bonggyunjo" width="100%" alt="Bonggyunjo's Grass" />
