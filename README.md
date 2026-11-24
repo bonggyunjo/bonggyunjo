@@ -49,8 +49,6 @@
     <td>
       <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
       <img src="https://img.shields.io/badge/Antigravity-4B0082?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Single_Agent-008080?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Multi_Agent-FF8C00?style=for-the-badge" />
       <img src="https://img.shields.io/badge/MCP-800000?style=for-the-badge" />
     </td>
   </tr>
